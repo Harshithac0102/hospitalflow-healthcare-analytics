@@ -1,0 +1,1 @@
+"""HospitalFlow analytics package."""
